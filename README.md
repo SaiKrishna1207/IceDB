@@ -1,5 +1,5 @@
 # IceDB:
-This is the main repository for IceDB, a Key-Value Store Database Management System built as a part of the course CS251 (DBMS), CSE Dept, NITK.
+This is the main repository for IceDB, a Key-Value Store Database Management System built as a part of the course CS251 (DBMS), CSE Dept, NITK. The report is present in the repository for reference.
 
 ## Code:
 - Written in C++.
